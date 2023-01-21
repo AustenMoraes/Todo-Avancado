@@ -10,8 +10,7 @@
 
 body {
   background: linear-gradient(135deg, #FFF8DC,#D4E9D8);
-  background-attachment: fixed;
-  background-size:cover;
+  font-family: Helvetica;
 }
 
 html {
